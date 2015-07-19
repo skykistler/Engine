@@ -6,6 +6,4 @@ public interface InputBehavior {
 	public void down();
 
 	public void released();
-
-	public void move();
 }

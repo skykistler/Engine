@@ -4,8 +4,8 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="lib/lwjgl/lwjgl.jar">
 		<attributes>
-			<attribute name="javadoc_location" value="jar:platform:/resource/Relearn%20LWJGL/lib/lwjgl/javadoc.zip!/"/>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Relearn LWJGL/lib/lwjgl/native"/>
+			<attribute name="javadoc_location" value="jar:platform:/resource/SkyEngine/lib/lwjgl/javadoc.zip!/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="SkyEngine/lib/lwjgl/native"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="bin"/>

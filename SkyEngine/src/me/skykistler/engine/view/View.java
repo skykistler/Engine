@@ -3,9 +3,9 @@ package me.skykistler.engine.view;
 import me.skykistler.engine.model.Model;
 
 public interface View {
-	public void init(int width, int height);
+	public void init(Model model, Viewport viewport);
 
-	public void set(Viewport viewport);
+	public void render();
 
-	public void render(Model model);
+	public long getWindow();
 }
